@@ -10,4 +10,4 @@ Creating abstracts for COVID-19 articles by training the model on papers having 
 
 ## Dataset
 
-The articles were extracted from this dataset: ![Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+The articles were extracted from this dataset: [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
