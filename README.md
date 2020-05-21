@@ -15,4 +15,4 @@ The articles were extracted from this dataset: [Kaggle](https://www.kaggle.com/a
 ### Team Members:
 
 [Akshat Jain](https://github.com/Akshatt)  
-Rishit Grover
+[Rishit Grover](https://github.com/RishitGrover)
