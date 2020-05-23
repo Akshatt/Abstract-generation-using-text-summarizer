@@ -1,5 +1,5 @@
 # Abstract-generation-using-text-summarizer
-Creating abstracts for COVID-19 articles by training the model on papers having abstracts.
+Creating abstracts for COVID-19 articles by finding the most important sentences using TextRank algorithm.
 
 ## Implementation
 
