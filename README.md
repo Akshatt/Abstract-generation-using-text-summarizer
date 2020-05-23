@@ -3,7 +3,7 @@ Creating abstracts for COVID-19 articles by training the model on papers having 
 
 ## Implementation
 
-**Step 1: Training the model with papers having an abstract**  
+**Step 1: Preprocessing the textbody and title of abstract-less papers**  
 **Step 2: Using TextRank algorithm and GloVe embeddings to form summaries of papers having no abstract.**  
 **Step 3: Searching for the abstracts through the input keywords provided by the user.**  
 
